@@ -1,4 +1,2 @@
-Changelogs 11/25/2023
-1. Currently testing GITHUB response :)
-2. Testing scroll limit (Depends on text)
-3. Testing wrapping EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+Changelogs 11/26/2023
+Very cool
